@@ -1,5 +1,0 @@
-// LLQueue
-
-public class LLQueue {
-
-}
