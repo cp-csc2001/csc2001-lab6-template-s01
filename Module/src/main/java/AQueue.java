@@ -1,5 +1,0 @@
-// AQueue
-
-public class AQueue {
-
-}
