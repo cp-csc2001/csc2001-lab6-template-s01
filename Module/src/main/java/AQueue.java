@@ -1,0 +1,5 @@
+// AQueue
+
+public class AQueue {
+
+}
